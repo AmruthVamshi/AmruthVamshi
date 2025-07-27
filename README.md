@@ -62,57 +62,54 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmruthVamshi&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=AmruthVamshi&theme=radical)
-
 ## 💼 Project Experience While Working With [EsMagico](https://www.esmagico.com/)
 
-### 🌟 [Epic Global Backend]
+### 🌟 Epic Global Backend
 Enterprise-grade multi-marketplace e-commerce platform enabling brands to manage product listings across Amazon, eBay, Walmart, Coupang, and Shopee from a unified interface. Built with microservices 
 architecture and advanced content versioning system.
-• **Tech Stack:** NestJS, PostgreSQL, Prisma ORM, Redis, Keycloak, Bull Queue, Swagger
-• **Key Achievements:** 
-  • Architected and implemented marketplace adapter pattern for 5 major e-commerce platforms
-  • Designed sophisticated content versioning system enabling A/B testing and rollback capabilities
-  • Built queue-based bulk processing system handling 10,000+ product listings simultaneously
-  • Implemented enterprise authentication with Keycloak and role-based access control
-• **Features:** 
-  • Multi-marketplace listing management with unified API
-  • Content version tracking (active vs live content separation)
-  • Bulk CSV/Excel file processing and validation
-  • Real-time marketplace status synchronization
-  • Pause/resume functionality with metadata preservation
-  • Comprehensive audit logging and error recovery
-• **Technical Highlights:**
-  • Marketplace-specific adapters with common interface pattern
-  • Advanced PostgreSQL schema with complex relationships
-  • Redis-based caching and queue management
-  • Automated CI/CD pipeline with comprehensive API documentation
+- **Tech Stack:** NestJS, PostgreSQL, Prisma ORM, Redis, Keycloak, Bull Queue, Swagger
+- **Key Achievements:** 
+  - Architected and implemented marketplace adapter pattern for 5 major e-commerce platforms
+  - Designed sophisticated content versioning system enabling A/B testing and rollback capabilities
+  - Built queue-based bulk processing system handling 10,000+ product listings simultaneously
+  - Implemented enterprise authentication with Keycloak and role-based access control
+- **Features:** 
+  - Multi-marketplace listing management with unified API
+  - Content version tracking (active vs live content separation)
+  - Bulk CSV/Excel file processing and validation
+  - Real-time marketplace status synchronization
+  - Pause/resume functionality with metadata preservation
+  - Comprehensive audit logging and error recovery
+- **Technical Highlights:**
+  - Marketplace-specific adapters with common interface pattern
+  - Advanced PostgreSQL schema with complex relationships
+  - Redis-based caching and queue management
+  - Automated CI/CD pipeline with comprehensive API documentation
 
-### 🌟 [AI Chatbot Platform - Bharat SahAIyak]
+### 🌟 AI Chatbot Platform - Bharat SahAIyak, Kisan E-Mitra
 Scalable microservices-based data ingestion and retrieval infrastructure for building LLM-powered chatbots, developed for Indian governance consulting firm Samagra. Successfully scaled to handle enterprise-
 level traffic with advanced caching and queue management.
-• **Tech Stack:** NestJS, PostgreSQL, Redis, RabbitMQ, MinIO, OpenAI API, Hugging Face
-• **Key Achievements:**
-  • Architected and built complete microservices infrastructure from ground up
-  • Scaled services to handle 10,000+ requests per second through multi-tier caching optimization
-  • Led and mentored team of junior developers and interns, improving productivity and delivery timelines
-  • Integrated cutting-edge AI technologies including LLMs and classification models
-  • Implemented automated CI/CD pipeline using GitHub Actions for seamless deployment
-• **Features:**
-  • Full-stack LLM-based chatbot creation and management platform
-  • Multi-tier caching system with Redis for optimal performance
-  • RabbitMQ queue-based asynchronous processing
-  • MinIO object storage for file uploads and document management
-  • Graph data structures and traversal algorithms for chatbot testing platform
-  • OpenAI API integration with intelligent decision-making capabilities
-• **Technical Highlights:**
-  • Microservices architecture with independent scaling capabilities
-  • Advanced caching strategies reducing response times significantly
-  • Queue-based processing ensuring system reliability under high load
-  • AI model integration using Hugging Face transformers
-  • Comprehensive testing framework enhancing system reliability
-• **Impact:** Enhanced system reliability through innovative testing platform and delivered multiple projects ahead of deadlines
+- **Tech Stack:** NestJS, PostgreSQL, Redis, RabbitMQ, MinIO, OpenAI API, Hugging Face
+- **Key Achievements:**
+  - Architected and built complete microservices infrastructure from ground up
+  - Scaled services to handle 10,000+ requests per second through multi-tier caching optimization
+  - Led and mentored team of junior developers and interns, improving productivity and delivery timelines
+  - Integrated cutting-edge AI technologies including LLMs and classification models
+  - Implemented automated CI/CD pipeline using GitHub Actions for seamless deployment
+- **Features:**
+  - Full-stack LLM-based chatbot creation and management platform
+  - Multi-tier caching system with Redis for optimal performance
+  - RabbitMQ queue-based asynchronous processing
+  - MinIO object storage for file uploads and document management
+  - Graph data structures and traversal algorithms for chatbot testing platform
+  - OpenAI API integration with intelligent decision-making capabilities
+- **Technical Highlights:**
+  - Microservices architecture with independent scaling capabilities
+  - Advanced caching strategies reducing response times significantly
+  - Queue-based processing ensuring system reliability under high load
+  - AI model integration using Hugging Face transformers
+  - Comprehensive testing framework enhancing system reliability
+- **Impact:** Enhanced system reliability through innovative testing platform and delivered multiple projects ahead of deadlines
 
 ## 📫 Connect with Me
 
