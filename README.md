@@ -42,10 +42,6 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmruthVamshi&layout=compact&theme=radical)
-
 ## 💼 Featured Work
 
 ### 🔗 [Distributed GPU Job Orchestration Platform](https://github.com/LIU-CS-691/gpu-bridge)
