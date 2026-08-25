@@ -1,10 +1,9 @@
 # Hi there, I'm Amruth Vamshi Batta 👋
 
 ## About Me
-- 🔭 Senior Software Engineer with 4+ years building data layer architectures, distributed systems, and AI platforms
+- 🔭 Software Engineer with 4+ years building data layer architectures, distributed systems, and AI platforms
 - 🎓 M.S. in Computer Science at Long Island University, Brooklyn (May 2026)
-- 🌱 Focused on scalable data pipelines, analytical query optimization, and RAG-powered AI systems
-- 💬 Ask me about NestJS, Python, GraphQL, distributed systems, LLM/RAG pipelines, and SQL optimization
+- 💬 Ask me about NestJS, Python, Typescript, distributed systems, LLM/RAG pipelines, and SQL optimization
 - 📫 amruthvamshibatta@gmail.com | [LinkedIn](https://www.linkedin.com/in/amruthvamshi/)
 
 ## 🛠️ Tech Stack
