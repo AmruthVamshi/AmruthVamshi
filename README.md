@@ -42,6 +42,13 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AmruthVamshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AmruthVamshi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AmruthVamshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 ## 💼 Featured Work
 
 ### 🔗 [Distributed GPU Job Orchestration Platform](https://github.com/LIU-CS-691/gpu-bridge)
