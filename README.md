@@ -4,7 +4,6 @@
 - 🔭 Software Engineer with 4+ years building data layer architectures, distributed systems, and AI platforms
 - 🎓 M.S. in Computer Science at Long Island University, Brooklyn (May 2026)
 - 💬 Ask me about NestJS, Python, Typescript, distributed systems, LLM/RAG pipelines, and SQL optimization
-- 📫 amruthvamshibatta@gmail.com | [LinkedIn](https://www.linkedin.com/in/amruthvamshi/)
 
 ## 🛠️ Tech Stack
 
