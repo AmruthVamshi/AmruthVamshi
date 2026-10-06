@@ -54,23 +54,5 @@
 ### 🔗 [Distributed GPU Job Orchestration Platform](https://github.com/LIU-CS-691/gpu-bridge)
 3-component distributed system (REST API, CLI client, worker agent) for GPU training job orchestration with priority scheduling, role-based access control, and fault-tolerant job lifecycle management.
 - **Tech:** FastAPI, Docker, NVIDIA GPU passthrough, real-time log streaming
-
-### 🛒 Epic Global — Multi-Marketplace E-Commerce Platform
-Data layer architecture for a platform managing 50,000+ product listings across Amazon, eBay, Walmart, and 2 others in 5+ countries. Designed marketplace adapter pattern (Strategy + Factory), queue-based bulk processing (65% throughput increase), and multi-tenant access control.
-- **Tech:** NestJS, PostgreSQL, Redis, Bull Queue, GitHub Actions
-
-### 🤖 AI Conversational Platform — Bharat SahAIyak
-RAG-powered conversational AI platform with multi-stage data transformation pipeline serving 3+ enterprise clients. Built embedding generation, semantic deduplication, vector search, and fine-grained access control for multi-tenant deployment.
-- **Tech:** NestJS, LangChain, OpenAI APIs, Milvus, PostgreSQL, RabbitMQ, Langfuse
-
-### 🍕 Peppo (Dominos India) — Analytical Platform
-Migrated REST to GraphQL (35% payload reduction), optimized analytical SQL queries across PostgreSQL and ClickHouse (40% latency reduction), and built a real-time operations dashboard for 10,000+ daily orders.
-- **Tech:** Next.js, GraphQL, PostgreSQL, ClickHouse, Firebase, Redis
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amruthvamshi/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amruthvamshibatta@gmail.com)
-
+  
 ---
-⭐️ From [AmruthVamshi](https://github.com/AmruthVamshi)
