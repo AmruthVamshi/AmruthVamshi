@@ -45,13 +45,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=AmruthVamshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AmruthVamshi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AmruthVamshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 💼 Featured Work
-
-### 🔗 [Distributed GPU Job Orchestration Platform](https://github.com/LIU-CS-691/gpu-bridge)
-3-component distributed system (REST API, CLI client, worker agent) for GPU training job orchestration with priority scheduling, role-based access control, and fault-tolerant job lifecycle management.
-- **Tech:** FastAPI, Docker, NVIDIA GPU passthrough, real-time log streaming
-  
----
